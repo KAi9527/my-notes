@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "重构-改善既有代码的设计/Untitled.md",
+                "file": "重构-改善既有代码的设计/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f454f6ce22f8392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bad smell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "重构-改善既有代码的设计/Untitled.md",
+                "file": "Bad smell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "重构-改善既有代码的设计/Untitled.md",
+                "file": "Bad smell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "重构-改善既有代码的设计/Untitled.md"
+                "file": "Bad smell.md"
               }
             }
           }
@@ -155,9 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f9c0a297c726f74",
+  "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
     "重构-改善既有代码的设计/Untitled.md",
+    "Bad smell.md",
+    "重构-改善既有代码的设计/Overview.md",
     "重构-改善既有代码的设计"
   ]
 }
