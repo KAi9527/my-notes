@@ -12,3 +12,6 @@
 * api到cli是否类似为相应的api提供bash资源？
 
 * 为什么更新沙盒状态的时候需要更新appId，应用会发生变化吗？DevCloudSandboxScheduleService 424
+
+* 如何配置项目维度的项目资源？
+* 如何往项目根目录中添加.mvn .joygen等配置文档？
