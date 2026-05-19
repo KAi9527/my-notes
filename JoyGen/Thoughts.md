@@ -8,6 +8,9 @@
 * agent通过cli自循环纠错的过程中如何加入人工介入途径？
 * 20260512:当前cli中local/api provider均为mock实现，本期目标应当是完善实现，并结合记忆反馈agent
 
+# 存量应用开发
+* 当前选择了项目之后，HomeStore.templateProject会被赋值，导致创建项目的时候走默认创建逻辑；如要优化需要了解HomeStore.templateProject原来的作用
+
 # Q
 * api到cli是否类似为相应的api提供bash资源？
 
