@@ -15,6 +15,7 @@
 * 规范中应当提示agent每次都需要读取新的工具（规范、mcp等）
 * 需要统一沙箱/沙盒的命名或者提示agent这两个指代的是一个东西
 * 当前agent对env这个环境变量是猜的
+* 行云应用配置：统一端口、统一日志输出（需要std输出）、数据库密码明文、properties配置占位符、java版本和mvn wrapper指定、需要开放环境变量指定入口（do dockerfile或start.sh）、行云配置文件拉取、需要考虑能不能统一一套settings.xml和start.sh，然后提供一定扩展性
 
 # Q
 * api到cli是否类似为相应的api提供bash资源？
