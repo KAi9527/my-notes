@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JoyGen/Sandbox/0521待改进事项.md",
+                "file": "JoyGen/Sandbox/JoyGen测试环境沙盒调试备忘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0521待改进事项"
+              "title": "JoyGen测试环境沙盒调试备忘"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
-    "JoyGen/Thoughts.md",
     "JoyGen/Sandbox/0521待改进事项.md",
+    "JoyGen/Sandbox/JoyGen测试环境沙盒调试备忘.md",
+    "JoyGen/Thoughts.md",
     "AI/模型相关/Cache.md",
     "Pasted image 20260511205105.png",
     "Pasted image 20260511205036.png",
