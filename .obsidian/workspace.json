@@ -11,12 +11,14 @@
             "id": "5f454f6ce22f8392",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260511205036.png"
+                "file": "JoyGen/Sandbox/Daytona沙盒配置/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260511205036"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ]
@@ -181,12 +183,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "8f9c0a297c726f74",
+  "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
-    "Pasted image 20260511205105.png",
-    "Pasted image 20260511205036.png",
-    "README.md",
+    "JoyGen/Sandbox/Daytona沙盒配置/Dockerfile.md",
+    "JoyGen/Sandbox/Daytona沙盒配置/未命名.md",
     "JoyGen/Sandbox/Tools调优/沙盒Spec - 01.md",
+    "JoyGen/Sandbox/Daytona沙盒配置",
+    "Pasted image 20260511205036.png",
+    "Pasted image 20260511205105.png",
+    "README.md",
     "JoyGen/Sandbox/Tools调优/CLI Skill - 01.md",
     "JoyGen/Sandbox/0521待改进事项.md",
     "JoyGen/Sandbox/Tools调优",
