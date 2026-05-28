@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JoyGen/Sandbox/Daytona沙盒配置/mysettings.xml.md",
+                "file": "JoyGen/Sandbox/Daytona沙盒配置/nginx.conf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mysettings.xml"
+              "title": "nginx.conf"
             }
           }
         ]
@@ -186,9 +186,9 @@
   "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
     "JoyGen/Sandbox/Daytona沙盒配置/start.sh.md",
-    "JoyGen/Sandbox/Daytona沙盒配置/mysettings.xml.md",
     "JoyGen/Sandbox/Daytona沙盒配置/nginx.conf.md",
     "JoyGen/Sandbox/Daytona沙盒配置/Dockerfile.md",
+    "JoyGen/Sandbox/Daytona沙盒配置/mysettings.xml.md",
     "JoyGen/Sandbox/Tools调优/沙盒Spec - 01.md",
     "JoyGen/Sandbox/Daytona沙盒配置",
     "Pasted image 20260511205036.png",
