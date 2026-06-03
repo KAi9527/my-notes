@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JoyGen/Sandbox/Tools调优/沙盒Spec - 02.md",
+                "file": "JoyGen/Sandbox/Daytona沙盒配置/start.sh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "沙盒Spec - 02"
+              "title": "start.sh"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
-    "JoyGen/Sandbox/Tools调优/CLI Skill - 02.md",
     "JoyGen/Sandbox/Tools调优/沙盒Spec - 02.md",
+    "JoyGen/Sandbox/Tools调优/CLI Skill - 02.md",
     "JoyGen/调试技巧.md",
     "JoyGen/Sandbox/JoyGen测试环境沙盒调试备忘.md",
     "JoyGen/MVP展示后代办.md",
