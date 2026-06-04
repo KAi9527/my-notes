@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JoyGen/ei-java-spec-test硬编码位置.md",
+                "file": "JoyGen/MVP展示.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ei-java-spec-test硬编码位置"
+              "title": "MVP展示"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
-    "JoyGen/Sandbox/Daytona沙盒配置/Dockerfile.md",
     "JoyGen/ei-java-spec-test硬编码位置.md",
+    "JoyGen/Sandbox/Daytona沙盒配置/Dockerfile.md",
     "JoyGen/Sandbox/Daytona沙盒配置/nginx.conf.md",
     "JoyGen/Sandbox/Daytona沙盒配置/start.sh.md",
     "JoyGen/Sandbox/Tools调优/沙盒Spec - 02.md",
