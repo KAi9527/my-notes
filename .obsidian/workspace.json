@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JoyGen/MVP展示.md",
+                "file": "JoyGen/CLI/常用命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVP展示"
+              "title": "常用命令"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
+    "JoyGen/MVP展示.md",
+    "JoyGen/CLI/常用命令.md",
+    "JoyGen/CLI",
     "JoyGen/ei-java-spec-test硬编码位置.md",
     "JoyGen/Sandbox/Daytona沙盒配置/Dockerfile.md",
     "JoyGen/Sandbox/Daytona沙盒配置/nginx.conf.md",
@@ -195,7 +198,6 @@
     "JoyGen/Sandbox/JoyGen测试环境沙盒调试备忘.md",
     "JoyGen/MVP展示后代办.md",
     "Pasted image 20260601100622.png",
-    "JoyGen/MVP展示.md",
     "JoyGen/Sandbox/Daytona沙盒配置/mysettings.xml.md",
     "JoyGen/Sandbox/Tools调优/沙盒Spec - 01.md",
     "JoyGen/Sandbox/Daytona沙盒配置",
