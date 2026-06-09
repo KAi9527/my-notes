@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JoyGen/CLI/常用命令.md",
+                "file": "Investment/Basic/A股技术指标实战笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用命令"
+              "title": "A股技术指标实战笔记"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
-    "JoyGen/MVP展示.md",
+    "Investment/Basic/attachments/512480_technical_indicators_1y.png",
+    "Investment/Basic/A股技术指标实战笔记.md",
     "JoyGen/CLI/常用命令.md",
+    "Investment/Basic/attachments",
+    "Investment/Basic",
+    "Investment",
+    "JoyGen/MVP展示.md",
     "JoyGen/CLI",
     "JoyGen/ei-java-spec-test硬编码位置.md",
     "JoyGen/Sandbox/Daytona沙盒配置/Dockerfile.md",
@@ -213,11 +218,8 @@
     "AI/模型相关/Cache.md",
     "AI/模型相关",
     "AI",
-    "JoyGen/Sandbox",
     "重构-改善既有代码的设计/1. Bad smell.md",
-    "JoyGen",
     "重构-改善既有代码的设计/0. Overview.md",
-    "重构-改善既有代码的设计/Untitled.md",
-    "重构-改善既有代码的设计"
+    "重构-改善既有代码的设计/Untitled.md"
   ]
 }
