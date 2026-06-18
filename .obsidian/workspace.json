@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investment/Basic/A股技术指标实战笔记.md",
+                "file": "JoyGen/CLI/常用命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A股技术指标实战笔记"
+              "title": "常用命令"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "5f454f6ce22f8392",
   "lastOpenFiles": [
+    "Investment/Basic/A股技术指标实战笔记.md",
     "JoyGen/定时任务/DTS 1.0 设计备忘.md",
     "JoyGen/Thoughts.md",
     "JoyGen/定时任务",
     "JoyGen/MVP展示后代办.md",
-    "Investment/Basic/A股技术指标实战笔记.md",
     "Investment/Basic/attachments/512480_technical_indicators_1y.png",
     "JoyGen/CLI/常用命令.md",
     "Investment/Basic/attachments",
